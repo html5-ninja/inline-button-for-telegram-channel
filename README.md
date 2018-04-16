@@ -53,6 +53,8 @@ var buttons = [
 
 ## Photo
 You can also send a photo 
+
 <hr/>
+
 if you need help or advanced feature please feel free to contact me
 zied.hosni.mail@gmail.com
