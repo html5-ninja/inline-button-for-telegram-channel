@@ -26,12 +26,12 @@ I advice you to try it with a test cahnnel
 ### Set your message text
 Edit the "html" variable 
 
-`var html = 'Hey this your awesome message\n\n'+
-'🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖\n\n'+
-'<b>bold</b>, <strong>bold</strong>\n'+
-'<i>italic</i>, <em>italic</em>\n'+
-'<a href="https://www.forex-signals.club/">inline URL</a>\n'+
-'<a href="tg://user?id=@zied_hosni">inline mention of a user</a>\n'+
-'<code>inline fixed-width code</code>\n'+
-'<pre>pre-formatted fixed-width code block</pre>\n\n'+
+`var html = 'Hey this your awesome message\n\n'+<br/>
+'🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖\n\n'+<br/>
+'<b>bold</b>, <strong>bold</strong>\n'+<br/>
+'<i>italic</i>, <em>italic</em>\n'+<br/>
+'<a href="https://www.forex-signals.club/">inline URL</a>\n'+<br/>
+'<a href="tg://user?id=@zied_hosni">inline mention of a user</a>\n'+<br/>
+'<code>inline fixed-width code</code>\n'+<br/>
+'<pre>pre-formatted fixed-width code block</pre>\n\n'+<br/>
 '🍩🍩🍩🍩🍩🍩🍩🍩🍩🍩';`
