@@ -26,12 +26,33 @@ I advice you to try it with a test cahnnel
 ### Set your message text
 Edit the "html" variable 
 
-`var html = 'Hey this your awesome message\n\n'+<br/>
-'🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖\n\n'+<br/>
-'<b>bold</b>, <strong>bold</strong>\n'+<br/>
-'<i>italic</i>, <em>italic</em>\n'+<br/>
-'<a href="https://www.forex-signals.club/">inline URL</a>\n'+<br/>
-'<a href="tg://user?id=@zied_hosni">inline mention of a user</a>\n'+<br/>
-'<code>inline fixed-width code</code>\n'+<br/>
-'<pre>pre-formatted fixed-width code block</pre>\n\n'+<br/>
+`var html = 'Hey this your awesome message\n\n'+
+'🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖\n\n'+
+'<b>bold</b>, <strong>bold</strong>\n'+
+'<i>italic</i>, <em>italic</em>\n'+
+'<a href="https://www.forex-signals.club/">inline URL</a>\n'+
+'<a href="tg://user?id=@zied_hosni">inline mention of a user</a>\n'+
+'<code>inline fixed-width code</code>\n'+
+'<pre>pre-formatted fixed-width code block</pre>\n\n'+
 '🍩🍩🍩🍩🍩🍩🍩🍩🍩🍩';`
+
+### Set your buttons
+Edit the buttons variable
+`
+var buttons = [
+    [
+        {"text": "See on Github", "url": "https://github.com/html5-ninja/inline-button-for-telegram-channel"}, 
+        {"text": "Follow me", "url": "https://twitter.com/zied_hosni"}
+    ],
+    [
+        {"text": "🎖 Join our forex channel 🎖", "url": "https://t.me/forex_signals_club"}
+    ]
+];
+
+`
+
+## Photo
+You can also send a photo 
+<hr/>
+if you need help or advanced feature please feel free to contact me
+zied.hosni.mail@gmail.com
