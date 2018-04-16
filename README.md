@@ -1,9 +1,9 @@
 # inline-button-for-telegram-channel
-Create awesome Telegram message for your channel with inline buttons, without coding skill and without adding suspicious robot.
+Create awesome Telegram message for your channel with inline buttons, without adding suspicious robot and for free
 
 ## Run it online 
 
-https://runkit.com/html5-ninja/inline-button-for-telegram-channel
+https://repl.it/@html5_ninja/inline-button-for-telegram-channel
 
 ## Settings
 
@@ -18,3 +18,20 @@ Create your bot a get your token go to https://core.telegram.org/bots to find ho
 Add your robot as admin to your channel and set your channel here , more details https://stackoverflow.com/questions/33126743/how-do-i-add-my-bot-to-a-channel
 
 `var chatId = '@my_trolololo_cahnnel'; // <= replace with yours`
+
+I advice you to try it with a test cahnnel 
+
+## Message 
+
+### Set your message text
+Edit the "html" variable 
+
+`var html = 'Hey this your awesome message\n\n'+
+'🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖\n\n'+
+'<b>bold</b>, <strong>bold</strong>\n'+
+'<i>italic</i>, <em>italic</em>\n'+
+'<a href="https://www.forex-signals.club/">inline URL</a>\n'+
+'<a href="tg://user?id=@zied_hosni">inline mention of a user</a>\n'+
+'<code>inline fixed-width code</code>\n'+
+'<pre>pre-formatted fixed-width code block</pre>\n\n'+
+'🍩🍩🍩🍩🍩🍩🍩🍩🍩🍩';`
