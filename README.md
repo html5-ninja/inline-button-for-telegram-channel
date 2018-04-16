@@ -51,8 +51,12 @@ var buttons = [
 
 `
 
+## Press RUN button to execute the script 
+
 ## Photo
 You can also send a photo 
+
+
 
 <hr/>
 
