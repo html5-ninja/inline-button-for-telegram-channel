@@ -48,7 +48,6 @@ var buttons = [
         {"text": "🎖 Join our forex channel 🎖", "url": "https://t.me/forex_signals_club"}
     ]
 ];
-
 `
 
 ## Press RUN button to execute the script 
